@@ -12,7 +12,7 @@ This is a simple RESTful API for managing products and calculating the final pri
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/sarveshmishra561999/Task.git>
 ```
 
 2. Install dependencies:
